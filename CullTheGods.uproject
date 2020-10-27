@@ -2,6 +2,7 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.25",
 	"Category": "",
+<<<<<<< Updated upstream
 	"Description": "",
 	"Plugins": [
 		{
@@ -23,4 +24,10 @@
 	"TargetPlatforms": [
 		"WindowsNoEditor"
 	]
+<<<<<<< HEAD
+=======
+	"Description": ""
+>>>>>>> Stashed changes
+=======
+>>>>>>> parent of 249ea59... Update CullTheGods.uproject
 }
