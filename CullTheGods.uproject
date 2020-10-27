@@ -24,7 +24,10 @@
 	"TargetPlatforms": [
 		"WindowsNoEditor"
 	]
+<<<<<<< HEAD
 =======
 	"Description": ""
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 249ea59... Update CullTheGods.uproject
 }
